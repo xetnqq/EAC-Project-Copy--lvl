@@ -1,0 +1,133 @@
+/* .penis {
+    display: flex;
+    background-color: #0B3C15;
+    width: 300px;
+    height: 65px;
+    border-radius: 15px;
+    margin: 17.5px;
+    margin-top: 30px;
+    margin-left: 70px;
+    margin-top: 30px;
+}
+
+.balls {
+    margin: 8px;
+    width: 50px;
+    height: 50px;
+}
+
+.nuts {
+    color: whitesmoke;
+    line-height: 65px;
+    font-size: 21px;
+    margin-left: 7px;
+}
+
+.text-png {
+    margin-left: 85px;
+    font-size: 30px;
+    margin-top: 50px;
+}
+
+.penis-1, 
+.penis-2,
+.penis-3 {
+    display: flex;
+    background-color: #0B3C15;
+    width: 300px;
+    height: 75px;
+    border-radius: 15px;    
+    margin-top: 30px;
+    margin-left: 70px;
+}
+
+.balls-1 {
+    width: 50px;
+    height: 50px;
+    margin-top: 10px;
+}
+
+.nuts-1 {
+    color: whitesmoke;
+    line-height: 65px;
+    font-size: 21px;
+    margin-left: 7px;
+}
+
+.container {
+    border-radius: 15px;
+    background-color: rgba(15, 73, 27, 0.5);
+    display: flex;
+    max-width: 290px;
+    flex-direction: column;
+    color: #fff;
+    font-weight: 800;
+    white-space: nowrap;
+    padding: 17px 11px;
+  }
+
+  .item-wrapper {
+    display: flex;
+    align-items: start;
+    gap: 20px;
+    justify-content: space-between;
+  }
+
+  .item-count {
+    display: flex;
+    gap: 0;
+    font-size: 25px;
+    letter-spacing: 5.5px;
+  }
+
+  .item-icon {
+    aspect-ratio: 1;
+    object-position: center;
+    width: 44px;
+    margin: 5px;
+  }
+
+  .item-quantity {
+    margin: auto 0;
+  }
+
+  .item-details {
+    display: flex;
+    gap: 20px;
+    font-size: 20px;
+    letter-spacing: 4.4px;
+  }
+
+  .item-name {
+    margin: auto 0;
+  }
+
+  .card{
+    border-radius: 15px;
+    background-color: #0B3C15;
+    width: 310px;
+    height: 165px;
+    margin-left: 65px;
+    margin-top: 50px;
+  }
+
+  footer {
+    display: flex;
+    justify-content: center;
+}
+
+.fooot {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 36px;
+    background-color: #233627;
+    border-radius: 20px;
+    width: 84%;
+    height: 60px;
+    margin-top: 77px;
+}
+
+.fooot img {
+    margin: 0 20px;
+} */

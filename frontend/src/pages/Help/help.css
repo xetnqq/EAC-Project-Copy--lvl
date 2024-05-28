@@ -1,0 +1,96 @@
+header {
+    background-color: #233627;
+    width: 100%;
+    height: 60px;
+    margin-bottom: 30px;
+}
+
+.goBack{
+    position: relative;
+    left: 11px;
+    top: 10px;   
+}
+
+.userDiscr {
+    position: relative;
+    top: 20px;
+    text-align: center;
+    font-size: 25px;
+    color: whitesmoke;
+}
+
+.userDiscr p{
+    margin-bottom: 10px;
+}
+
+.cont-lvl {
+    display: flex;
+    justify-content: center;
+}
+
+.bg-lvl {
+    border-radius: 30px;
+    height: 26px;
+    width: 140px;
+    background-color: #0F491B;
+    margin-top: 25px;
+    text-align: center;
+}
+
+.lvl {
+    border-radius: 30px;
+    background-color: #156B26;
+    height: 26px;
+    font-size: 20px;
+    color: whitesmoke;
+}
+
+.achievement {
+    position: relative;
+    top: 16px;
+    left: 5px;
+    height: 40px;
+}
+
+.support-info {
+    border-radius: 15px;
+    background-color: #0f491b;
+    max-width: 337px;
+    letter-spacing: 4.4px;
+    padding: 14px 9px 67px;
+    font: 700 20px Oxygen, sans-serif;
+    margin-left: 40px;
+    margin-top: 143px;
+  }
+  
+  .support-email {
+    color: rgba(16, 164, 211, 1);
+  }
+
+.textelem {
+    color: whitesmoke;
+    line-height: 65px;
+    font-size: 21px;
+    margin-left: 7px;
+}
+
+footer {
+    display: flex;
+    justify-content: center;
+}
+
+.foot20 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 120px;
+    background-color: #233627;
+    border-radius: 20px;
+    width: 84%;
+    height: 60px;
+    margin-top: 400px;
+}
+
+.foot20 img {
+    margin: 0 20px;
+}

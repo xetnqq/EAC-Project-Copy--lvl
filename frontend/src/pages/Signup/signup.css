@@ -1,0 +1,105 @@
+.container65 {
+  background-color: #171b04;
+  display: flex;
+  width: 100%;
+  padding-bottom: 50px;
+  flex-direction: column;
+  align-items: center;
+  font-weight: 700;
+  margin: 0 auto;
+  height: 800px;
+  overflow: hidden;
+}
+
+.header-banner {
+  background-color: #233627;
+  align-self: stretch;
+  width: 100%;
+  height: 70px;
+}
+
+.main-content {
+  margin-right: 100px;
+  display: flex;
+  margin-top: 25px;
+  margin-left: 50%;
+  gap: 150px;
+  width: 100%;
+}
+
+.login-title {
+  color: #595858;
+  font-size: 28px;
+}
+
+.sign-up-title {
+  color: #fff;
+  font-size: 28px;
+}
+
+.profile-section {
+  border-radius: 25px;
+  background-color: #0f491b;
+  display: flex;
+  margin-top: 120px;
+  width: 300px;
+  flex-direction: column;
+  padding: 50px 11px;
+  margin-top: 100px;
+  height: 300px;
+}
+
+.name-section{
+  background-color: #093211;
+  display: flex;
+  height: 70px;
+  margin-top: 15px;
+  border-radius: 10px;
+}
+
+.email-section{
+  background-color: #093211;
+  display: flex;
+  height: 70px;
+  margin-top: 15px;
+  border-radius: 10px;
+}
+
+.password-section{
+  background-color: #093211;
+  display: flex;
+  height: 70px;
+  margin-top: 15px;
+  border-radius: 10px;
+}
+
+.sign-up-button {
+  position: relative;
+  left: 65px;
+  border-radius: 50px;
+  background-color: rgba(212, 139, 29, 1);
+  align-self: center;
+  justify-content: center;
+  color: #020202;
+  letter-spacing: 2px;
+  margin: 19px 0px 0px 0px;
+  padding: 8px 35px;
+  font: 23px Open Sans, sans-serif;
+  font-weight: 600;
+  height: 70px;
+  width: 175px;
+}
+
+.input-name,
+.input-email,
+.input-password{
+  margin-top: 10px;
+  border: none;
+  height: 30px;
+}
+
+.signup-underline{
+  background-color: #d48b1d;
+  margin-top: 7px;
+  height: 3px;
+}

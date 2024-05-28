@@ -1,0 +1,190 @@
+.bg-commu {
+  display: flex;
+  justify-content: center;
+}
+
+.cont-commu {
+  background-color: #08601a31;
+  width: 90%;
+  height: 130px;
+  border-radius: 15px;
+  margin-top: 20px;
+}
+
+.fstr1 {
+  padding: 9px;
+  font-size: 30px;
+  word-spacing: 5px;
+}
+
+.fstr2 {
+  position: relative;
+  left: 9px;
+  bottom: 4px;
+  font-size: 17px;
+  word-spacing: 5px;
+}
+
+.bg-search {
+  margin-top: 70px;
+  display: flex;
+  justify-content: center;
+}
+
+.cont-search {
+  display: flex;
+  justify-content: space-between;
+  background-color: #13351B;
+  border-radius: 20px 20px 10px 10px;
+  height: 44px;
+  width: 300px;
+}
+
+.inp-search {
+  position: relative;
+  top: 10px;
+  padding-bottom: 0;
+  margin-bottom: 0;
+  border: none;
+  font-size: 16px;
+  >input {
+    border: none;
+  }
+}
+
+.btac {
+  position: relative;
+  bottom: 25px;
+  margin-left: 256px;
+  background-color: #0F491B;
+  width: 44px;
+  height: 44px;
+  border-radius: 20px 20px 10px 10px;
+  border: none;
+
+}
+
+.search12 {
+  position: relative;
+  right: 4px;
+}
+
+.bg-friends {
+  display: flex;
+  justify-content: center;
+}
+
+.cont-friends {
+  background-color: #0F491B;
+  border-radius: 23px 23px 10px 10px;
+  margin-top: 20px;
+  width: 80%;
+  height: 400px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  overflow: scroll;
+
+  >p {
+    padding-top: 11px;
+    font-size: 18px;
+  }
+}
+
+.list {
+  position: relative;
+  right: 70px;
+  padding: 15px;
+  font-size: 21px;
+}
+
+.bgoflist {
+  margin-top: 8px;
+  display: flex;
+}
+
+.contoflist {
+  background-color: #0B3C15;
+  border-radius: 15px;
+  height: 50px;
+  width: 280px;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  font-size: 17px;
+  word-spacing: 4px;
+}
+
+.usr1 {
+  padding-right: 5px;
+  padding-top: 7px;
+  height: 35px;
+}
+
+.tupo {
+  position: relative;
+  left: 10px;
+  > span {
+    color: #1cc738;
+  }
+}
+
+.add {
+  position: relative;
+  left: 70px;
+  top: 5px;
+  background: #118925;
+  width: 22px;
+  height: 22px;
+  text-align: center;
+  line-height: 21px;
+  color: rgb(255, 255, 255);
+  border-radius: 50%;
+  cursor: pointer;
+  font-weight: 1000;
+  transition: transform 500ms ease;
+}
+
+.bg-current-friends {
+  padding-top: 20px;
+  padding-left: 15px;
+}
+
+.tupo- {
+  position: relative;
+  left: 10px;
+  > span {
+    color: #1cc738;
+  }
+}
+
+.list- {
+  font-size: 21px;
+}
+
+.usr1- {
+  padding-right: 5px;
+  padding-top: 7px;
+  height: 35px;
+}
+
+
+footer {
+  display: flex;
+  justify-content: center;
+}
+
+.footer77 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 72px;
+  background-color: #233627;
+  border-radius: 20px;
+  width: 84%;
+  height: 60px;
+}
+
+.footer77 img {
+  margin: 0 20px;
+}

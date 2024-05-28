@@ -1,0 +1,9 @@
+.cont-error {
+    position: relative;
+    top: 70px;
+    text-align: center;
+    padding: 112px;
+    >h1 {
+        color: rgb(200, 19, 19);
+    }
+}

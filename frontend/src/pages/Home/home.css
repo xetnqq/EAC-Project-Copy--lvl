@@ -1,0 +1,98 @@
+header {
+    display: flex;
+    justify-content: space-between;
+}
+
+.profile-settings {
+    margin: 9px;
+}
+
+.settings {
+    margin: 9px;
+}
+
+.CircularProgressbar{
+    position: relative; 
+margin-left: 115px;
+margin-top: 20px;
+text-align: center;
+
+}
+
+a.text:active,
+a.text:hover,  
+a.text {
+  text-decoration: none;
+  color: whitesmoke;
+  transition: opacity 500ms ease;
+}
+
+.CircularProgressbar-path {
+  stroke: red;
+}
+.CircularProgressbar-trail {
+  stroke: gray;
+}
+.CircularProgressbar-text {
+  fill: yellow;
+}
+.CircularProgressbar-background {
+  fill: rgb(24, 163, 24);
+}
+.bg-of-elem {
+    position: relative;
+    bottom: 30px;
+    display: flex;
+    justify-content: center;
+}
+
+.cont-of-elem {
+    justify-content: center;
+    height: 430px;
+    width: 80%;
+    margin-top: 95px;
+    
+}
+
+.section {
+    display: flex;
+    background-color: #0B3C15;
+    width: 90%;
+    height: 65px;
+    border-radius: 15px;
+    margin: 17.5px;
+    margin-top: -30px;
+}
+
+.icons {
+    margin: 8px;
+    width: 50px;
+    height: 50px;
+}
+
+.textelem {
+    color: whitesmoke;
+    line-height: 65px;
+    font-size: 21px;
+    margin-left: 7px;
+}
+
+footer {
+    display: flex;
+    justify-content: center;
+}
+
+.contfoot {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 36px;
+    background-color: #233627;
+    border-radius: 20px;
+    width: 84%;
+    height: 60px;
+}
+
+.contfoot img {
+    margin: 0 20px;
+}

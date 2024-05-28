@@ -1,0 +1,137 @@
+header {
+    background-color: #233627;
+    width: 100%;
+    height: 60px;
+    margin-bottom: 30px;
+}
+
+.goBack{
+    position: relative;
+    left: 11px;
+    top: 10px;   
+}
+
+.userDiscr {
+    position: relative;
+    top: 20px;
+    text-align: center;
+    font-size: 25px;
+    color: whitesmoke;
+}
+
+.userDiscr p{
+    margin-bottom: 10px;
+}
+
+.cont-lvl {
+    display: flex;
+    justify-content: center;
+}
+
+.bg-lvl {
+    border-radius: 30px;
+    height: 26px;
+    width: 140px;
+    background-color: #0F491B;
+    margin-top: 25px;
+    text-align: center;
+}
+
+.lvl {
+    border-radius: 30px;
+    background-color: #156B26;
+    height: 26px;
+    font-size: 20px;
+    color: whitesmoke;
+}
+
+.achievement {
+    position: relative;
+    top: 16px;
+    left: 5px;
+    height: 40px;
+}
+.bgelem {
+    position: relative;
+    bottom: 30px;
+    display: flex;
+    justify-content: center;
+}
+
+.contelem {
+    justify-content: center;
+    height: 430px;
+    width: 80%;
+    margin-top: 45px;
+}
+
+.rectangle1 {
+    display: flex;
+    background-color: #0B3C15;
+    width: 90%;
+    height: 65px;
+    border-radius: 15px;
+    margin-left: 17.5px;
+    margin-top: 0px;
+   
+}
+
+.icons {
+    margin: 8px;
+    width: 50px;
+    height: 50px;
+}
+.icons1 {
+    margin: 8px;
+    width: 50px;
+    height: 50px;
+}
+.textelem {
+    color: whitesmoke;
+    line-height: 65px;
+    font-size: 21px;
+    margin-left: 7px;
+}
+
+
+.rectangle2 {
+    display: flex;
+    background-color: #0B3C15;
+    width: 90%;
+    height: 65px;
+    border-radius: 15px;
+    margin-left: 17.5px;
+    margin-top: 0px;
+   
+}
+
+.rectangle3 {
+    display: flex;
+    background-color: #0B3C15;
+    width: 90%;
+    height: 65px;
+    border-radius: 15px;
+    margin: 17.5px;
+    margin-top: 30px;
+   
+}
+
+footer {
+    display: flex;
+    justify-content: center;
+}
+
+.foot13 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 96px;
+    background-color: #233627;
+    border-radius: 20px;
+    width: 84%;
+    height: 60px;
+}
+
+.foot13 img {
+    margin: 0 20px;
+}
